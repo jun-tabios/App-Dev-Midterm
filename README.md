@@ -59,9 +59,9 @@ GOOD LUCK!
 
 
 THE CODE
-Midterm1.java
+Midterm.java
 
-public class Prog1 {
+public class Midterm {
     public static void main(String[] args) {
         System.out.println("PATEROS TECHNOLOGICAL COLLEGE");
         System.out.println("APPLICATION DEVELOPMENT\n");
