@@ -17,7 +17,7 @@ public class Midterm1 {
         String[] femaleGroup = {
             // Type the names of the 20 female group members here
             "Dumaran,Laira-Ann M. ", "Valerie Clair Avinales", "Rizza Servano", "Jubel Nuestro"
-            "Name11", "Name12", "Name13", "Name14", "Name15",
+            "Joan Obediente", "Name12", "Name13", "Name14", "Name15",
             "Name16", "Name17", "Montenegro Jamie", "Name19", "Name20"
         };
 
