@@ -7,7 +7,7 @@ public class Midterm1 {
         String[] maleGroup = {
             // Type the names of the 20 male group members here
 
-            "Moy Cayanong", "Name2", "Name3", "Name4", "Name5",
+            "Moy Cayanong", "Neo Chavez", "Name3", "Name4", "Name5",
             "Name6", "Name7", "Name8", "Name9", "John Paul V. Calutan",
             "Name11", "Name12", "Name13", "Dan Vantari Das L. Ma aol", "Name15",
             "Name1", "Name2", "Name3", "Name4", "Name5",
