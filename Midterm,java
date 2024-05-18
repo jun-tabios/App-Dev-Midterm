@@ -22,7 +22,7 @@ public class Midterm1 {
             // Type the names of the 20 female group members here
             "Dumaran,Laira-Ann M. ", "Valerie Clair Avinales", "Rizza Servano", "Jubel Nuestro"
             "Joan Obediente", "Joverlyn Diquit", "Elyka Mae Subito", "Name14", "Name15",
-            "Name16", "Name17", "Montenegro Jamie", "Name19", "Name20"
+            "Name16", "Kristal May Musni", "Montenegro Jamie", "Name19", "Name20"
         };
 
         System.out.println("MALE GROUP");
