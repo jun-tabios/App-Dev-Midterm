@@ -1,0 +1,37 @@
+public class Midterm {
+    public static void main(String[] args) {
+        System.out.println("PATEROS TECHNOLOGICAL COLLEGE");
+        System.out.println("APPLICATION DEVELOPMENT\n");
+        System.out.println("TEAM LEAD: JSTJR\n");
+
+
+        String[] maleGroup = {
+            // Type your name as a members of the male group here
+            "Ceejay Gonzales", "Jorem Alcaya", "Kenjie Hermoura", "James Pbz", "Moy Cayanong",
+            "John Paul Calutan", "Neo Chavez", "Edren Albao", "Carlo Figueroa", "Jerwin Gadista",
+            "Justin Leyson", "Christian Sumulong", "Christopher Santos", "Johnber Morales", "Dember Persona",
+            "Vincen Avinales", "Francisco Santos", "Fallarme Alvin", "Vergel Modto", "Jude Caindoy"
+        };
+
+
+        String[] femaleGroup = {
+            // Type your names as a member of the female group here
+            "Bernalyn Pacete", "Bernalon Pacete", "Princes Palad", "Katrina Persona", "Joverlyn Diquit",
+            "Michell Gadista", "Elyka Mae Subito", "Joan Obediente", "Jubel Nuestro", "Rizza Servano",
+            "Valerie Clair Avinales", "Laria-Ann Dumaran", "Roxanne Mendez", "Nina Molar", "Sherlyn Lucas",
+            "Cristine Tapic", "Sheila Gadista", "Erica Grospe", "Carla Ceremonia", "Alma Morales"
+        };
+
+
+        System.out.println("MALE GROUP");
+        for (String name : maleGroup) {
+            System.out.println(name);
+        }
+
+
+        System.out.println("\nFEMALE GROUP");
+        for (String name : femaleGroup) {
+            System.out.println(name);
+        }
+    }
+}
